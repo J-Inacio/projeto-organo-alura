@@ -1,0 +1,21 @@
+.lista-suspensa label {
+    display: block;
+    margin-bottom: 8px;
+    font-size: 24px;
+} 
+
+.lista-suspensa select {
+    background-color: #FFF;
+    
+    /*box-shadow: tamanho da sombra cima, tamanho direita, tamanho baixo, rgb( 3 cores, opacidade)*/
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.6);
+
+    /*tamanho ocupando 100% do tamanho da div*/
+    width: 100%;
+    border: none;
+    font-size: 24px;
+    padding: 24px;
+    
+    /*box-sizing: avisando ao css que o width deve ser 100% levando em consideração todos os espaçamentos(margin, padding, etc..)*/
+    box-sizing: border-box;
+}
