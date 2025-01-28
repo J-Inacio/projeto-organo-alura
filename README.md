@@ -7,6 +7,7 @@ OrganoAlura é um projeto simples e divertido que permite criar e organizar card
 - Adicionar cards com:
   - Nome do personagem
   - Imagem do personagem
+  - Tipo de personagem(protagonista, antagonista, etc..)
   - Categoria (anime que o personagem pertence)
 - Organização automática dos cards por cores, com base no anime selecionado.
 - Interface intuitiva e fácil de usar.
@@ -17,8 +18,6 @@ OrganoAlura é um projeto simples e divertido que permite criar e organizar card
 - **CSS**: Para a estilização e organização das cores.
 - **JavaScript**: Para a lógica de adição de cards e interação do usuário.
 
-## 📦 Como Usar
+## 📦 Link para testar
+https://projeto-organo-alura.vercel.app/
 
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/organo-alura.git
